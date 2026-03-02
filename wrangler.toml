@@ -1,3 +1,6 @@
 name = "cfworker"
 main = "src/index.js"
 compatibility_date = "2024-03-20"
+
+[placement]
+region = "aws:us-east-1"
