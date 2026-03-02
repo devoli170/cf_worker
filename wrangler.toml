@@ -1,3 +1,3 @@
-name = "gemini-proxy"
+name = "cfworker"
 main = "src/index.js"
 compatibility_date = "2024-03-20"
