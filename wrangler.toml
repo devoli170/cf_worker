@@ -4,4 +4,4 @@ compatibility_date = "2024-03-20"
 
 [placement]
 mode = "smart"
-region = "aws:us-east-1"
+region = "gcp:us-east4"
